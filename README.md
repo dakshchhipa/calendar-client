@@ -1,4 +1,8 @@
+
 ---
+
+ **Admin ID:** `admin@gmail.com`
+- **Admin Password:** `admin123`
 ## Overview
 
 The Assignment is a modern web application designed to manage and visualize communication schedules, including tracking companies, communication methods, and scheduled activities. This application provides an intuitive UI where users can view, add, and modify communication records in a structured, easy-to-use manner. It leverages **React.js** and **Material-UI** for a seamless and responsive user experience.
